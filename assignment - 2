@@ -45,6 +45,9 @@
     IT is the code which is actually used in the production web application.
 14. What is `browserlists`?
     BrowserLists specify which version to be allowed to use the web application..The particular web application will be compatable to the browserlist specified..
+
+
 Read about dif bundlers: vite, webpack, parcel
 ● Read about: ^ - caret and ~ - tilda
-● Read about Script types in html (MDN Docs)
+● Read aboutcls
+(MDN Docs)
